@@ -1,4 +1,4 @@
-# AI-Powered Surveillance System
+# SmartGuard-AI-emphasizes-intelligent-surveillance
 
 An intelligent video surveillance system that automatically detects suspicious activities using deep learning and computer vision techniques. Designed to improve public safety in environments such as parking lots, banks, and campuses, this system leverages anomaly detection to monitor CCTV footage in real-time without requiring human intervention.
 
